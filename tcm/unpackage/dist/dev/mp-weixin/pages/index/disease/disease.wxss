@@ -1,0 +1,61 @@
+
+page {
+	width: 100%;
+	height: 90%;
+}
+.body-view {
+	display: inline-block;
+	width: 150rpx;
+	height: 60rpx;
+	background-color: #ffffff;
+	padding: 20rpx;
+	margin-top: 20rpx;
+}
+.scroll-view {
+	text-align: center;
+	width: 100%;
+	white-space: nowrap;
+}
+.menu-one {
+	background-color: #f6f5ec;
+	height: 100%;
+}
+.menu-one-act {
+	background-color: #f97400;
+	height: 100%;
+}
+.swiper {
+	height: 800px;
+	text-align: center;
+	background-color: #f6f5ec;
+}
+.swiper-scroll {
+	height: 100%;
+}
+.swiper-item{
+	display: flex;
+	/* display: flex; */
+	flex-direction: row;
+	/* background-color: #007AFF; */
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.swiper-item-li{
+	width: 300rpx;
+	/* padding: 5rpx; */
+	/* background-color: #4CD964; */
+	margin: 30rpx;
+}
+.swiper-item-li text{
+	margin: 5rpx;
+}
+.swiper-item-li .image{
+	width: 300rpx;
+	height: 200rpx;
+	/* background-color: #0000FF; */
+}
+.swiper-item-li image{
+	width: 100%;
+	height: 100%;
+}
+

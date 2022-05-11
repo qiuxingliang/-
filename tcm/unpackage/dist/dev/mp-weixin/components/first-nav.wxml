@@ -1,0 +1,1 @@
+<view class="firstNav"><view class="top1">{{title}}</view><view class="top2"><view class="text">登录</view>/<view class="text">注册</view></view></view>

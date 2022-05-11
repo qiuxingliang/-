@@ -1,0 +1,16 @@
+
+.carousel{
+	margin: 15rpx 15rpx;
+	/* margin-right: 120rpx; */
+	/* padding: 10rpx; */
+	width: 720rpx;
+	background-color: #f6f5ec;
+	/* background-color: #007AFF; */
+	/* height: 530rpx; */
+	/* height: 240px; */
+}
+.img{
+	width: 100%;
+	height: 100%;
+}
+

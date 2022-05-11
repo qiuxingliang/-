@@ -1,0 +1,50 @@
+
+.body{
+	border: solid 2px #9C4B00;
+	border-radius: 20rpx;
+	padding: 0 100rpx;
+	margin: 50rpx 20rpx 100rpx 20rpx;
+	/* background-color: #f6f5ec; */
+}
+/*头像start*/
+.face-wapper {
+	/* display: flex;
+	flex-direction: row;
+	justify-content : center; */
+	/* background-color: #007AFF; */
+	height: 300rpx; 
+	width: 300rpx;
+	margin:60rpx 0;
+	margin-left: 20%;
+}
+.face-wapper .img{
+	height: 100%;
+	width: 100%;
+}
+.face{
+	/* width: 160upx; */
+	height: 40rpxpx;
+}
+/*头像end*/
+.words-lbl{
+	font-size: 60rpx;
+	/* background-color: #007AFF; */
+	line-height: 120%;
+	margin-left: 30rpx;
+}
+.info-wapper{
+	display: flex;
+	border: solid 2rpx #9C4B00;
+	border-radius: 10rpx;
+	margin: 20rpx 0;
+	justify-content: center;
+	line-height: 80rpx;
+}
+.info-wapper input{
+	/* background-color: #007AFF; */
+	/* line-height: 100rpx; */
+	height: 70rpx;
+	margin-left: 20rpx;
+	font-size: 35rpx;
+}
+

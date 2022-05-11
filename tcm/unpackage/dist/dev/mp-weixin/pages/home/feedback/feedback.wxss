@@ -1,0 +1,38 @@
+
+.big{
+	height: 1200rpx;
+	margin: 50rpx 30rpx;
+	padding: 10rpx;
+	/* background-color: #007AFF; */
+}
+.feedback{
+	/* height: 300rpx; */
+	margin: 20rpx 0;
+	padding: 30rpx;
+	border: solid 2px #9C4B00;
+	border-radius: 20rpx;
+	/* background-color: #2AABD2; */
+}
+.lianxi{
+	/* height: 100rpx; */
+	margin: 20rpx 0;
+	padding: 30rpx;
+	border: solid 2px #9C4B00;
+	border-radius: 20rpx;
+	/* background-color: #398439; */
+}
+.tupian{
+	height: 300rpx;
+	margin: 50rpx 0;
+	background-color: #2AABD2;
+}
+.tupian text{
+	margin: 30rpx 0;
+	background-color: #808080;
+}
+.tupian-item{
+	height: 200rpx;
+	margin: 50rpx 0;
+	background-color: #AFD9EE;
+}
+

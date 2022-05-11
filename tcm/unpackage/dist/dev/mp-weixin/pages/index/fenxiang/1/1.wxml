@@ -1,0 +1,1 @@
+<view class="page big"><view class="title"><text>{{title}}</text><view><text class="from">————中国中药网</text></view></view><view class="neirong"><view class="tp"><image src="{{img}}"></image></view><view class="wenzi"><rich-text nodes="{{datail}}"></rich-text></view></view></view>

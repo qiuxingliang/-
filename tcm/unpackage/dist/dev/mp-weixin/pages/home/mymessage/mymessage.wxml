@@ -1,0 +1,1 @@
+<view class="content"><image class="img" src="{{avatarUrl}}" mode></image><view class="nickName"><text>昵称：</text>{{''+nickName+''}}</view><view class="qianming"><text>个性签名：</text>这个人很懒，什么都没有留下~</view></view>

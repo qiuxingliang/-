@@ -1,0 +1,83 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/grass/grass",
+    "pages/grass/detail/detail",
+    "pages/inquiry/inquiry",
+    "pages/inquiry/consult/consult",
+    "pages/inquiry/consult/talking/talking",
+    "pages/home/home",
+    "pages/home/registLogin/registLogin",
+    "pages/home/register/register",
+    "pages/home/changePwd/changePwd",
+    "pages/home/feedback/feedback",
+    "pages/home/mymessage/mymessage",
+    "pages/index/shihua/shihua",
+    "pages/index/chuancheng/chuancheng",
+    "pages/index/baodian/baodian",
+    "pages/index/fenxiang/fenxiang",
+    "pages/index/fenxiang/1/1",
+    "pages/index/disease/disease",
+    "pages/index/disease/detail/detail",
+    "pages/index/sanitarium/sanitarium",
+    "pages/index/sanitarium/details/details",
+    "pages/index/sanitarium/details/service/service",
+    "pages/index/sanitarium/details/card/card",
+    "pages/home/cantactus/cantactus",
+    "pages/home/commonproblem/commonproblem",
+    "pages/home/seting/seting",
+    "pages/home/appointment/appointment",
+    "pages/home/shoppingcart/shoppingcart",
+    "pages/home/collection/collection",
+    "pages/inquiry/prescription/prescription",
+    "pages/inquiry/prescription/findmedicine/findmedicine",
+    "pages/home/seting/address/address",
+    "pages/home/seting/address/edit/edit",
+    "pages/home/shoppingcart/order/order"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#9C4B00",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#FFFFFF",
+    "selectedColor": "#FFFFFF",
+    "borderStyle": "black",
+    "backgroundColor": "#9C4B00",
+    "height": "50px",
+    "fontSize": "10px",
+    "iconWidth": "24px",
+    "spacing": "3px",
+    "list": [
+      {
+        "selectedIconPath": "static/tubiao/index1.png",
+        "iconPath": "static/tubiao/index.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "static/tubiao/yaoxiang1.png",
+        "iconPath": "static/tubiao/yaoxiang.png",
+        "pagePath": "pages/grass/grass",
+        "text": "百草阁"
+      },
+      {
+        "selectedIconPath": "static/tubiao/duihua1.png",
+        "iconPath": "static/tubiao/duihua.png",
+        "pagePath": "pages/inquiry/inquiry",
+        "text": "问诊"
+      },
+      {
+        "selectedIconPath": "static/tubiao/wode1.png",
+        "iconPath": "static/tubiao/wode.png",
+        "pagePath": "pages/home/home",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

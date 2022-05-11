@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "中医宝典",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "lunbo": "/components/lunbo"
+  }
+}

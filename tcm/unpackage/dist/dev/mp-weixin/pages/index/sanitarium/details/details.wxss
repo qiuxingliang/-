@@ -1,0 +1,306 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 横线 */
+.divider{
+	background: #333333;
+	width: 200rpx;
+	height: 5rpx;
+	/* margin-top: 50rpx; */
+}
+/* 活动专区 */
+.huodong{
+}
+.huodong-title{
+	padding: 30rpx;
+	display: flex;
+	justify-content: space-around;
+	background-color: #f4ebe1;
+	vertical-align: middle;
+	align-items: center;/*垂直居中 */
+	/* height: 100rpx; */
+}
+.huodong-biaoti{
+	/* margin-top: 50rpx; */
+	padding: 0rpx 15rpx;
+	border-left: #052b14 10rpx solid;
+	border-right: #052b14 10rpx solid;
+	/* background-color: #007AFF; */
+}
+.content{
+	height: 200rpx;
+	margin: 20rpx auto;
+	border-radius: 30rpx;
+	width: 600rpx;
+	background-color: #e4e8eb;
+	display: flex;
+}
+.content-tp{
+	width: 300rpx;
+	height: 150rpx;
+	/* background-color: #fef4ea; */
+	margin: 25rpx 20rpx;
+	border-radius: 30rpx;
+}
+.content-tp image{
+	height: 100%;
+	width: 100%;
+	border-radius: 20rpx;
+}
+.content-wz{
+	margin: 25rpx 20rpx;
+	display: flex;
+	flex-direction: column;
+	color: #000000;
+	justify-content: space-around;
+}
+.content-wz-by{
+	background-color: #012b15;
+	padding: 5rpx 30rpx;
+	color: #ffffff;
+	border-radius: 40rpx;
+	font-size: 30rpx;
+}
+.content-tuina{
+	/* width: 300rpx; */
+	/* height: 200rpx; */
+	background-color: #012b15; 
+	margin: 40rpx 40rpx;
+	border-radius: 30rpx;
+	/* padding: 20rpx; */
+}
+.content-tuina-tp{
+	/* width: 300rpx; */
+	height: 150rpx;
+	/* background-color: #fef4ea; */
+	/* margin: 25rpx 20rpx; */
+	/* border-radius: 30rpx; */
+}
+.content-tuina-tp image{
+	height: 100%;
+	width: 100%;
+	/* border-radius: 20rpx; */
+}
+.content-tuina-wz{
+	padding: 20rpx;
+	/* margin: 10rpx; */
+	/* background-color: #007AFF; */
+	display: flex;
+	justify-content: space-around;
+	color: #ffffff;
+}
+.content-tuina-wz-by{
+	background-color: #ffffff;
+	padding: 5rpx 30rpx;
+	color: #052B14;
+	border-radius: 40rpx;
+	font-size: 30rpx;
+}
+.about{
+	padding: 40rpx;
+}
+.about-item1{
+	padding: 40rpx;
+	background-color: #f4e3db;
+	display: flex;
+	flex-direction: column;
+	border-radius: 30rpx;
+	/* justify-content: center; */
+}
+.about-item1-name{
+	/* justify-content: center; */
+	/* background-color: #007AFF; */
+	text-align: center;
+	padding: 10rpx;
+	font-size: 35rpx;
+	font-weight: 600;
+}
+.about-item1-text{
+	text-indent: 2em;
+	font-size: 25rpx;
+}
+.about-item2{
+	margin: 10rpx;
+	display: flex;
+	flex-direction: column;
+	font-size: 25rpx;
+	background-color: #012b15;
+	padding: 10rpx;
+	color: #ffffff;
+}
+.about-item2 text{
+	margin: 5rpx;
+}
+

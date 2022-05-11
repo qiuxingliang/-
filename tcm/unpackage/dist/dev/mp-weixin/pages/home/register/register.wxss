@@ -1,0 +1,71 @@
+
+.body{
+	border: solid 2px #9C4B00;
+	border-radius: 20rpx;
+	padding: 0 100rpx;
+	margin: 50rpx 10rpx 100rpx 10rpx;
+	/* background-color: #f6f5ec; */
+}
+/*头像start*/
+.face-wapper {
+	/* display: flex;
+	flex-direction: row;
+	justify-content : center; */
+	/* background-color: #007AFF; */
+	height: 300rpx; 
+	width: 300rpx;
+	margin:20rpx 0;
+	margin-left: 20%;
+}
+.face-wapper .img{
+	height: 100%;
+	width: 100%;
+}
+.face{
+	/* width: 160upx; */
+	height: 40rpxpx;
+}
+/*头像end*/
+.words-lbl{
+	font-size: 60rpx;
+	/* background-color: #007AFF; */
+	line-height: 120%;
+	margin-left: 30rpx;
+}
+.info-wapper{
+	display: flex;
+	border: solid 2rpx #9C4B00;
+	border-radius: 10rpx;
+	margin: 20rpx 0;
+	justify-content: center;
+	/* line-height: 150rpx; */
+}
+.info-wapper input{
+	/* background-color: #007AFF; */
+	/* line-height: 100rpx; */
+	height: 90rpx;
+	margin-left: 60rpx;
+	font-size: 30rpx; 
+	/* color: #CCCCCC; */
+}
+.zhuce{
+	display: flex;
+	justify-content: center;
+	color: #9C4B00;
+}
+.zhuangtai{
+	color: #ADADAD;
+	margin: 20rpx 0;
+	/* background-color: #000000; */
+	padding: 10rpx 0;
+}
+.qita{
+	display: flex;
+	justify-content: space-around;
+	color: #ADADAD;
+	margin: 30rpx 0;
+}
+.qita-item .tu{
+	font-size: 60rpx;
+}
+
